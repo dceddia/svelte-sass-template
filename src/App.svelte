@@ -2,19 +2,19 @@
   export let name;
 </script>
 
-<style type="text/scss">
+<!-- use lang="sass" for SASS -->
+<style lang="scss">
   $color: red;
+
+  div {
+    > p {
+      background: green;
+      color: white;
+    }
+  }
 
   h1 {
     color: $color;
-  }
-
-  div {
-    background: green;
-
-    > p {
-      color: #fff;
-    }
   }
 </style>
 
