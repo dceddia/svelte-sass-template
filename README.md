@@ -18,7 +18,7 @@ This project comes with `node-sass` as a dependency, for SASS support, but you'l
 
 ## What to Change
 
-Starting fresh? Clone this template with `degit dceddia/svelte-template-sass` and you're all set.
+Starting fresh? Clone this template with `degit dceddia/svelte-sass-template` and you're all set.
 
 Got an existing project? There are only a few changes to make:
 
